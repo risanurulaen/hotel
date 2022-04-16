@@ -18,4 +18,4 @@ Download aplikasi Kompas.com untuk akses berita lebih mudah dan cepat:
 Android: https://bit.ly/3g85pkA
 iOS: https://apple.co/3hXWJ0L</td></center>
 </body>
-</html>
+</html>   
